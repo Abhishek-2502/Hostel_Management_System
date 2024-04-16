@@ -1,4 +1,4 @@
-# Hostel-Management-System
+## Hostel Management System
 Hostel Management system addresses the common issue of Allocation faced by hostels for initial allocation of students. It uses a menu driven program to systematically help in the process by using conceot of OOPs in C++.
 # Problem Statement:
 In a college or university, it's common to have a hostel or dormitory where students live during their
