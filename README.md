@@ -59,3 +59,7 @@ Here's a concise breakdown:<br />
 
 ## Class Diagram: <br >
 <img src="https://github.com/ayushimahajan295/Hostel-Management-System/assets/145414094/fc060f2e-d827-4185-bcdd-59d4fb55998b" alt="error">
+
+## Author
+
+Abhishek Rajput.
